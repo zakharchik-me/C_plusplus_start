@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab1/add.h
+
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab1/main.cpp
+iostream
+-
+iomanip
+-
+complex
+-
+add.h
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab1/add.h
+
