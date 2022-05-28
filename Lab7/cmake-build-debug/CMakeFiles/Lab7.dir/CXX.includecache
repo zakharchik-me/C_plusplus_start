@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab7/Buffer.h
+iostream
+-
+vector
+-
+iterator
+-
+algorithm
+-
+errors.h
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab7/errors.h
+
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab7/errors.h
+
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab7/main.cpp
+Buffer.h
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab7/Buffer.h
+
