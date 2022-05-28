@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab5/main.cpp
+iostream
+-
+min.h
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab5/min.h
+
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab5/min.h
+iostream
+-
+vector
+-
+
