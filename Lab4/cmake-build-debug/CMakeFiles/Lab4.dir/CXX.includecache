@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/Point.h
+iostream
+-
+math.h
+-
+
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/calc.h
+vector
+-
+Point.h
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/Point.h
+
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/figure.h
+vector
+-
+
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/line.h
+vector
+-
+calc.h
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/calc.h
+
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/lline.h
+
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/main.cpp
+calc.h
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/calc.h
+Point.h
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/Point.h
+line.h
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/line.h
+lline.h
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/lline.h
+poly.h
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/poly.h
+trap.h
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/trap.h
+triangle.h
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/triangle.h
+figure.h
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/figure.h
+reg.h
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/reg.h
+
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/poly.h
+figure.h
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/figure.h
+
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/reg.h
+
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/trap.h
+
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Proga/Lab4/triangle.h
+
